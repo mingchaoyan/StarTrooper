@@ -562,6 +562,18 @@ MonoBehaviour:
   sensitivity: 1
   forwardForce: 50
   guiSpeedElement: {fileID: 897323263}
+--- !u!114 &1856964670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1856964667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a20ab2ab751145708c52d433203275f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  missile: {fileID: 100000, guid: 2451958374f854fea9a83bde415df166, type: 2}
 --- !u!1001 &1897936737
 Prefab:
   m_ObjectHideFlags: 0
