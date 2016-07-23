@@ -574,6 +574,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   missile: {fileID: 100000, guid: 2451958374f854fea9a83bde415df166, type: 2}
+--- !u!4 &1856964673 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 00d5ab871fd4e46e8b57f5b38f9b8e20, type: 3}
+  m_PrefabInternal: {fileID: 1856964666}
+--- !u!114 &1856964675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1856964667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d6cfeb602a44f61af04bb6f88ff990, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 1856964673}
+  distance: 10
+  height: 5
 --- !u!1001 &1897936737
 Prefab:
   m_ObjectHideFlags: 0
